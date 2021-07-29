@@ -1,0 +1,2 @@
+# mobil-skins
+all skins
